@@ -34,22 +34,6 @@ In just a few clicks, you can:
 3. **Configure Your Launch:** Customize your DAO, token, website, and more with our simple drag-and-drop interface.
 4. **Hit Launch:** Press the button, and watch as your project goes live.
 
-## 🎨 Theme Options
-
-We offer two vibrant theme styles for your project dashboard:
-
-### 1. **Ethereum Theme (Steel Blue Neon)**  
-- **Primary Color:** #4682B4 (Steel Blue)
-- **Accent Glow:** #5BA2D0 (Lighter Steel Blue)
-- **Deep Shadow:** #2C4A6E (Dark Steel Blue)
-- **Background Gradient:** #0A0A0A to #121212 (Black Gradient)
-
-### 2. **Solana Theme (Purple Neon)**  
-- **Primary Color:** #8B5CF6 (Vivid Purple)
-- **Accent Glow:** #A78BFA (Lavender Neon)
-- **Deep Shadow:** #4C1D95 (Deep Purple)
-- **Background Gradient:** #0A0A0A to #121212 (Dark Gradient)
-
 ## 🔧 Technologies
 
 - **SimpFi.Ai™:** The core technology behind YLaunchinator, integrating apps, AI models, APIs, and blockchain.
